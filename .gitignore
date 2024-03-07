@@ -1,3 +1,8 @@
+#Suggested change by prof
+.ccls-cache
+.replit
+replit.nix
+
 # Prerequisites
 *.d
 
